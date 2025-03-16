@@ -53,7 +53,7 @@ const breadcrumbs: BreadcrumbItem[] = [
       <div class="flex justify-between items-center mb-4">
         <h1 class="text-2xl font-bold">Dashboard</h1>
         <Link :href="route('starterkit.create')">
-        <Button>Create Starter Kit</Button>
+        <Button>Add Starter Kit</Button>
         </Link>
       </div>
 

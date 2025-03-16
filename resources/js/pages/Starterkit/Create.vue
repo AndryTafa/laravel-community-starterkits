@@ -40,7 +40,7 @@ const breadcrumbs: BreadcrumbItem[] = [
 
 <template>
 
-  <Head title="Create Starterkit" />
+  <Head title="Add Starter Kit" />
   <AppLayout :breadcrumbs="breadcrumbs">
     <div class="flex h-full flex-1 flex-col gap-4 rounded-xl p-4">
       <Card>
